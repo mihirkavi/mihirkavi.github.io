@@ -1,0 +1,46 @@
+body {
+	background-color:  
+
+	background-color: ;
+	background-color: white;
+	font-family: arial;
+	text-align: justify;
+	/*! text-justify: inter-word; */
+	font-size: medium;
+}
+#header {
+	color: #4a4a59;
+	font-family: arial;
+}
+p {
+	color: black;
+}
+.parameters {
+	
+	font-family: arial;
+	color: #4a4a56;
+}
+a:hover {
+	
+	
+	color: #787884;
+	font-style: unset;
+	text-decoration: none;
+}
+a {
+	text-decoration: none;
+	
+	color: black;
+}
+.guides {
+	
+	font-size: smaller;
+	font-style: italic;
+	font-family: arial;
+}
+.contact {
+	
+	color: #547d9f;
+	font-family: arial;
+	font-size: calc;
+}
