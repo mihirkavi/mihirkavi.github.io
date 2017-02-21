@@ -1,50 +1,46 @@
-body {
-	background-color:  
-
-	background-color: ;
-	background-color: white;
-	font-family: arial;
-	text-align: justify;
-	/*! text-justify: inter-word; */
-	font-size: medium;
+#header{
+  font-family: 'Raleway', sans-serif;
+  margin: 0px 20px 20px 0px;
+  width: 100%;
+  background-color: #cbed87;
+  border-radius: 10px;
+  height: 80px;
 }
-#header {
-	color: #4a4a59;
-	font-family: arial;
+#linkedin{
+  text-decoration: none;
+  color: purple;
 }
-p {
-	color: black;
+#linkedin:hover{
+  color: blue;
+  font-size: 18px;
 }
-.parameters {
-	
-	font-family: arial;
-	color: #4a4a56;
+body{
+  font-family: 'Nunito', sans-serif;
+  text-align: justify;
+  margin: 0px 20px 20px 20px;
 }
-a:hover {
-	
-	
-	color: #787884;
-	font-style: unset;
-	text-decoration: none;
+.parameters{
+  font-family: 'Hind', sans-serif;
+  font-size: 23px
 }
-a {
-	text-decoration: none;
-	
-	color: black;
+#mihir{
+  margin: 20px 20px 10px 20px;
+  font-size: 35px;
 }
-.guides {
-	
-	font-size: smaller;
-	font-style: italic;
-	font-family: arial;
+#mail{
+  margin: 0px 0px 0px 20px;
 }
-.contact {
-	
-	color: #547d9f;
-	font-family: arial;
-	font-size: calc;
+.link_project{
+  text-decoration: none;
+  color:blue;
 }
-#linkedin {
-	
-	color: #547dbe;
+.guides{
+  font-size: 14px;
+  font-style: italic;
+}
+.link_project:hover{
+  font-size: 17px;
+  color: purple;
+}
+.school{
 }
