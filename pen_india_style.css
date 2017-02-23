@@ -1,0 +1,49 @@
+.jumbotron {
+  display: flex;
+  background-image: url('http://www.pixelstalk.net/wp-content/uploads/2016/05/Bing-Best-Wallpapers-Background-Download-Free.jpg');
+  background-size: cover;
+  height: 250px;
+}
+header{
+  
+  font-family: 'Titillium Web', sans-serif;
+  background-color: #f7faff;
+  border-radius: 5px;
+}
+.nav_items:hover{
+  text-decoration: none;
+  font-size: 25px;
+}
+#logo:hover{
+  text-decoration: none;
+  
+}
+body{
+  font-family: 'Libre Baskerville', serif;
+  text-align: justify;
+  font-family: 'Roboto', sans-serif;
+}
+p{
+  font-size: 17px;
+}
+#guides {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#sidebar{
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+.sidebar_items:hover{
+  text-decoration: none;
+}
+i{
+  margin-right:10px;
+}
+footer{
+  border-radius: 10px;
+  background-color: #f7faff;
+  opacity: 0.5;
+  text-align: center;
+  height: 75px;
+  padding: 20px;
+}
