@@ -6,11 +6,11 @@
   border-radius: 10px;
   height: 80px;
 }
-#linkedin{
+.linkedin{
   text-decoration: none;
   color: purple;
 }
-#linkedin:hover{
+.linkedin:hover{
   color: blue;
   font-size: 18px;
 }
