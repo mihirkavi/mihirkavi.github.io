@@ -1,10 +1,7 @@
-#header{
+header{
   font-family: 'Raleway', sans-serif;
-  margin: 0px 20px 20px 0px;
-  width: 100%;
   background-color: #cbed87;
   border-radius: 10px;
-  height: 80px;
 }
 .linkedin{
   text-decoration: none;
@@ -14,6 +11,9 @@
   color: blue;
   font-size: 18px;
 }
+section .container {
+	margin-top: 131px;
+}
 body{
   font-family: 'Nunito', sans-serif;
   text-align: justify;
@@ -22,6 +22,10 @@ body{
 .parameters{
   font-family: 'Hind', sans-serif;
   font-size: 23px
+}
+header div .nav-brand {
+	margin: 20px 20px 10px 20px;
+	font-size: 35px;
 }
 #mihir{
   margin: 20px 20px 10px 20px;
