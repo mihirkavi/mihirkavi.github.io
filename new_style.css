@@ -1,7 +1,7 @@
-header div{
-	padding-left: 70px;
-	
+header.navbar.navbar-fixed-top.navbar-default {
+	padding-left: 89.5px;
+	border-radius: 10px;
 }
-body section.container{
-	margin-top: 81px;
+section.container {
+	margin-top: 80px;
 }
