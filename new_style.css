@@ -1,0 +1,39 @@
+/*HEADER*/
+/*------------------------------------------------------------------------------------------------------------------------*/
+header.navbar.navbar-fixed-top.navbar-default {
+	border-radius: 10px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+}
+header a.navbar-brand {
+	 font-size: 25px;
+}
+header a.linkedin{
+  text-decoration: none;
+  color: purple;
+}
+header a.linkedin:hover{
+  color: blue;
+  font-size: 18px;
+}
+/*SECTION*/
+/*------------------------------------------------------------------------------------------------------------------------*/
+section.container {
+	margin-top: 50px;
+	font-family: 'Montserrat', sans-serif;
+}
+section h3.parameters{
+	font-family: 'Quicksand', sans-serif;
+	
+}
+section p.guides {
+  font-style: italic;
+}
+section a.link_project{
+  text-decoration: none;
+  color: blue;
+}
+section a.link_project:hover{
+	font-size: 15px;
+  color: purple;
+}
