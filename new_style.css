@@ -1,7 +1,23 @@
+/*HEADER*/
+/*------------------------------------------------------------------------------------------------------------------------*/
 header.navbar.navbar-fixed-top.navbar-default {
-	padding-left: 89.5px;
 	border-radius: 10px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
 }
+a.navbar-brand {
+	 font-size: 25px;
+}
+/*SECTION*/
+/*------------------------------------------------------------------------------------------------------------------------*/
 section.container {
 	margin-top: 80px;
+	font-family: 'Montserrat', sans-serif;
+}
+section h3.parameters{
+	font-family: 'Quicksand', sans-serif;
+	
+}
+section p.guides {
+  font-style: italic;
 }
