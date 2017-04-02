@@ -5,13 +5,21 @@ header.navbar.navbar-fixed-top.navbar-default {
 	font-family: 'Raleway', sans-serif;
 	font-size: 16px;
 }
-a.navbar-brand {
+header a.navbar-brand {
 	 font-size: 25px;
+}
+header a.linkedin{
+  text-decoration: none;
+  color: purple;
+}
+header a.linkedin:hover{
+  color: blue;
+  font-size: 18px;
 }
 /*SECTION*/
 /*------------------------------------------------------------------------------------------------------------------------*/
 section.container {
-	margin-top: 80px;
+	margin-top: 50px;
 	font-family: 'Montserrat', sans-serif;
 }
 section h3.parameters{
@@ -20,4 +28,12 @@ section h3.parameters{
 }
 section p.guides {
   font-style: italic;
+}
+section a.link_project{
+  text-decoration: none;
+  color: blue;
+}
+section a.link_project:hover{
+	font-size: 15px;
+  color: purple;
 }
