@@ -1,12 +1,20 @@
+* {
+  color: white;
+  background-color: black;
+}
 /*HEADER*/
 /*------------------------------------------------------------------------------------------------------------------------*/
 header.navbar.navbar-fixed-top.navbar-default {
 	border-radius: 10px;
 	font-family: 'Raleway', sans-serif;
 	font-size: 16px;
+  color: white;
+  background-color: black;
 }
 header a.navbar-brand {
 	 font-size: 25px;
+   color: white;
+   background-color: black;
 }
 header a.linkedin{
   text-decoration: none;
@@ -18,9 +26,28 @@ header a.linkedin:hover{
 }
 /*BODY*/
 /*------------------------------------------------------------------------------------------------------------------------*/
+html {
+  color: white;
+  background-color: black;
+}
 body {
   color: white;
   background-color: black;
+  margin: 0;
+  padding: 0;
+  background-color: black !important;
+}
+p {
+  color: white;
+  background-color: black;
+}
+h3 {
+  color: white;
+  background-color: black;
+}
+.container {
+  margin: 0;
+  padding: 0;
 }
 /*SECTION*/
 /*------------------------------------------------------------------------------------------------------------------------*/
