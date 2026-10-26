@@ -2,7 +2,7 @@
   <a href="https://www.mihirkavishwar.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.png">
-      <img alt="mihirkavi.github.io: old links, new home. Every mihirkavi.github.io link forwards to mihirkavishwar.com." src=".github/assets/banner-light.png" width="100%">
+      <img alt="mihirkavi.github.io: old links, new home. mihirkavi.github.io/about forwards to www.mihirkavishwar.com/about, while project sites at mihirkavi.github.io/repo stay untouched." src=".github/assets/banner-light.png" width="100%">
     </picture>
   </a>
 </p>
@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <img alt="Hosted on GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-111111?style=flat-square">
-  <img alt="Status: live" src="https://img.shields.io/badge/status-live-111111?style=flat-square">
-  <img alt="Size: two HTML files" src="https://img.shields.io/badge/two%20HTML%20files-6b6b6b?style=flat-square">
+  <img alt="Hosted on GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-15171a?style=flat-square">
+  <img alt="Status: live" src="https://img.shields.io/badge/status-live-2457e6?style=flat-square">
+  <img alt="Size: two HTML files" src="https://img.shields.io/badge/two%20HTML%20files-5b6067?style=flat-square">
 </p>
 
 ## How it works
